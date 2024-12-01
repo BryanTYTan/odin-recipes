@@ -1,0 +1,12 @@
+.recipe-title {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.img_showcase {
+    width: 400px;
+    height: auto;
+    float: left;
+    padding-right: 25px;
+}
